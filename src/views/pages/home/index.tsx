@@ -1,3 +1,9 @@
+import { Typography } from "@mui/material";
+
 export default function Home() {
-  return <div>Home</div>;
+  return (
+    <div>
+      <Typography variant="h2">Search</Typography>
+    </div>
+  );
 }
