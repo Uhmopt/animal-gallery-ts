@@ -24,3 +24,6 @@ export const theme = createTheme({
   },
   typography: { allVariants: { color: "#FFFFFF" } },
 });
+
+export const PRIMARY_GRADIENT =
+  "linear-gradient(270deg, #FFD25F 0.13%, #FF5C01 100%);";
